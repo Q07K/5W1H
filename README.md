@@ -1,4 +1,4 @@
-# 6하원칙 기반 작문 도우미 (6W Writing Assistant)
+# 6하원칙 기반 작문 도우미 (6W Writing Assistant ver.Gemini)
 
 ## 소개 (Introduction)
 6하원칙 기반 작문 도우미는 **누가(Who), 무엇을(What), 언제(When), 어디서(Where), 왜(Why), 어떻게(How)**라는 6하원칙에 따라 글을 작성하는 데 도움을 주는 도구입니다.
